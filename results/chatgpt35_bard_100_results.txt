@@ -1,0 +1,308 @@
+The aroma of freshly baked bread always fills me with an irresistible sense of comfort and joy. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 1 / 1
+The taste of a perfectly ripe strawberry is a symphony of sweetness and freshness that awakens my senses. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 2 / 2
+A well-made meal cooked with love and care can be a source of genuine happiness and nourishment. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 3 / 3
+The feeling of exploring a new place immersing myself in its culture and surroundings is an exhilarating adventure that leaves me forever changed. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 4 / 4
+The thrill of discovering hidden gems and off-the-beaten-path destinations fills me with a sense of wonder and excitement. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 5 / 5
+Traveling broadens my horizons challenges my perceptions and reminds me of the vastness and diversity of our world. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 6 / 6
+The serenity of a sunrise over a tranquil lake painting the sky with hues of gold and pink is a sight that fills me with awe and peace. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 7 / 7
+The majesty of a towering mountain peak piercing the clouds and reaching towards the heavens is a symbol of strength and beauty that inspires me. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 8 / 8
+The tranquility of a forest walk surrounded by the symphony of birdsong and rustling leaves is a balm to my soul and a reminder of nature's restorative power. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 9 / 9
+The melodies of a beautiful song have the power to transport me to different worlds evoke a wide range of emotions and touch my soul deeply. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 10 / 10
+The rhythm of music can set my heart racing ignite my energy and make me feel alive. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 11 / 11
+The ability of music to connect people from all walks of life transcending language and cultural barriers is a testament to its universal power. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 12 / 12
+The vibrant colors and intricate details of a painting can transport me to another realm captivating my imagination and sparking my creativity. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 13 / 13
+A sculpture with its bold shapes and textures can evoke a range of emotions and challenge my perception of the world around me. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 14 / 14
+The power of art to express emotions provoke thought and challenge societal norms is a testament to its transformative potential. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 15 / 15
+The feeling of being loved unconditionally by another person is one of the most profound and precious experiences in life. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 16 / 16
+The act of loving someone deeply and selflessly is a source of joy fulfillment and inspiration. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 17 / 17
+Love is a powerful force that can mend broken hearts overcome challenges and create a sense of belonging and connection. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 18 / 18
+The smell of freshly baked bread is a comfort food smell that always makes me feel warm and fuzzy inside. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 19 / 19
+The sound of rain on a tin roof is a soothing sound that always puts me at ease. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 20 / 20
+Food is an essential component of human survival providing us with the nutrients we need to function. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 21 / 21
+The flavors textures and aromas of food can evoke a wide range of emotions in people. --> 0
+0 --> SUBJECTIVE
+counter/sentence_counter: 21 / 22
+Food has cultural significance often reflecting the traditions and values of different societies. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 22 / 23
+Travel is the act of moving from one place to another typically for pleasure or business. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 23 / 24
+Tourism is a major industry generating billions of dollars in revenue each year. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 24 / 25
+Travel has the potential to broaden horizons expand cultural knowledge and promote cross-cultural understanding. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 25 / 26
+Nature is the natural world comprising all living and non-living things. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 26 / 27
+Ecosystems are complex systems of interacting organisms and their environment. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 27 / 28
+Nature provides essential resources for human survival including food water and oxygen. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 28 / 29
+Music is a form of art that combines rhythm melody and harmony to create sound patterns. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 29 / 30
+Music can be enjoyed for its aesthetic value or can be used to communicate emotions tell stories and promote social change. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 30 / 31
+Music is a universal language that can be understood and appreciated by people from all cultures. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 31 / 32
+Art is a form of expression that uses visual elements such as color line shape and texture to create meaningful works. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 32 / 33
+Art can be used to communicate emotions explore ideas and reflect on the human experience. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 33 / 34
+Art has the power to move people inspire creativity and challenge perceptions. --> 0
+0 --> SUBJECTIVE
+counter/sentence_counter: 33 / 35
+Love is a complex emotion characterized by feelings of affection care and attachment. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 34 / 36
+Love can be expressed in many different ways including through physical touch words and actions. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 35 / 37
+Love is essential for human connection and well-being. --> 0
+0 --> SUBJECTIVE
+counter/sentence_counter: 35 / 38
+Food is a major biological need for all living organisms providing energy and essential nutrients for growth development and maintenance. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 36 / 39
+The human diet varies widely across cultures and regions reflecting local food availability traditions and beliefs. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 37 / 40
+The taste of a perfectly ripe strawberry is a symphony of sweetness and freshness that awakens my senses. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 38 / 41
+The aroma of freshly brewed coffee fills me with a sense of comfort and anticipation promising a moment of relaxation and rejuvenation. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 39 / 42
+The warmth of a home-cooked meal prepared with love and care evokes a sense of nostalgia and belonging. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 40 / 43
+The feeling of stepping off a plane in a new country surrounded by unfamiliar sights sounds and smells is an exhilarating blend of excitement and trepidation. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 41 / 44
+Exploring a bustling cityscape weaving through the labyrinthine streets and immersing oneself in the vibrant energy of its people is an unforgettable experience. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 42 / 45
+Discovering hidden gems off the beaten path venturing into the unexplored corners of a destination is a source of pure delight and adventure. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 43 / 46
+The vast expanse of a starlit night sky dotted with countless twinkling celestial bodies fills me with a sense of awe and wonder. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 44 / 47
+The serenity of a sunrise over a calm lake painting the horizon with hues of gold and pink is a moment of pure tranquility and beauty. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 45 / 48
+The symphony of sounds in a lush forest from the chirping of birds to the rustling of leaves is a soothing balm to the soul. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 46 / 49
+The melodies of a beloved song evoke a flood of emotions transporting me back to cherished memories and inspiring new feelings. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 47 / 50
+The rhythm of a lively tune energizes my spirit making me want to dance and move to its infectious beat.The power of music to connect people from all walks of life transcending language and cultural barriers is a testament to its universality. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 48 / 51
+A captivating painting with its vibrant colors and intricate details can transport me to another world stirring my imagination and sparking my creativity. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 49 / 52
+A sculpture with its bold shapes and textures can evoke a range of emotions from joy and awe to sadness and introspection. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 50 / 53
+The ability of art to express human experiences challenge societal norms and inspire reflection is a testament to its profound impact. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 51 / 54
+The feeling of being loved unconditionally by another person is a source of immense comfort and security knowing that I am not alone in this world. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 52 / 55
+The act of loving someone deeply and selflessly is a source of joy fulfillment and purpose giving my life meaning and direction. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 53 / 56
+Love has the power to heal wounds mend broken hearts and overcome life's challenges reminding us of the resilience of the human spirit. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 54 / 57
+The aroma of freshly baked bread wafting through the air instantly transports me to a state of pure bliss. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 55 / 58
+The taste of a perfectly ripe strawberry is a symphony of sweetness and tartness that explodes on my taste buds. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 56 / 59
+The comfort of a warm bowl of soup on a chilly day is a reminder of the simple joys in life. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 57 / 60
+The satisfaction of savoring a well-crafted meal prepared with love and care is a true indulgence. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 58 / 61
+The shared experience of breaking bread with loved ones creates a sense of connection and belonging that warms the soul. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 59 / 62
+The thrill of exploring a new city immersing myself in its vibrant energy and culture is an exhilarating adventure. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 60 / 63
+The feeling of stepping off a plane in a foreign country surrounded by unfamiliar sights and sounds is a cocktail of excitement and anticipation. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 61 / 64
+The tranquility of a secluded beach with its soft sand and gentle waves is a haven of peace and relaxation. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 62 / 65
+The wonder of witnessing natural wonders like majestic mountains or cascading waterfalls is a humbling reminder of the beauty of our planet. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 63 / 66
+The joy of connecting with people from different cultures sharing stories and experiences is a passport to a world of new perspectives. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 64 / 67
+The vast expanse of a starlit sky dotted with countless twinkling celestial bodies fills me with awe and wonder. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 65 / 68
+The serenity of a sunrise over a tranquil lake painting the horizon with hues of gold and pink is a moment of pure tranquility. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 66 / 69
+The symphony of sounds in a lush forest from the chirping of birds to the rustling of leaves is a soothing balm to the soul. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 67 / 70
+Food is a source of energy and essential nutrients that are necessary for human survival. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 68 / 71
+The taste of food is determined by a combination of factors including the five basic tastes (sweet sour salty bitter and umami) texture aroma and temperature. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 69 / 72
+Food plays a significant role in culture often reflecting local traditions customs and beliefs. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 70 / 73
+The preparation and consumption of food can be a social event bringing people together for celebration sharing and bonding. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 71 / 74
+Food has the potential to influence our emotions moods and overall well-being. --> 0
+0 --> SUBJECTIVE
+counter/sentence_counter: 71 / 75
+Travel can be defined as the movement of people from one place to another for a variety of reasons including leisure business or education. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 72 / 76
+Tourism is a major industry that generates billions of dollars in revenue for countries worldwide. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 73 / 77
+Travel can broaden one's horizons providing exposure to different cultures customs and perspectives. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 74 / 78
+Travel experiences can be enriching and transformative leading to personal growth and self-discovery. --> 0
+0 --> SUBJECTIVE
+counter/sentence_counter: 74 / 79
+Sustainable tourism practices aim to minimize the negative impacts of travel on the environment and local communities. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 75 / 80
+Nature encompasses all living and non-living things that exist on Earth. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 76 / 81
+Ecosystems are complex systems of interacting organisms and their physical environment. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 77 / 82
+Natural resources such as water soil and air are essential for human survival. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 78 / 83
+Nature provides recreational opportunities such as hiking camping and fishing. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 79 / 84
+Environmental protection is crucial for maintaining the health and balance of our planet. --> 0
+0 --> SUBJECTIVE
+counter/sentence_counter: 79 / 85
+Music is an art form that combines rhythm melody and harmony to create sound patterns. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 80 / 86
+Music can be categorized into various genres such as classical jazz rock and pop. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 81 / 87
+Music can be performed by a single musician or by a group of musicians. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 82 / 88
+Music can be enjoyed for its aesthetic value or can be used to communicate emotions tell stories and promote social change. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 83 / 89
+Music has been shown to have a positive impact on mental and physical health. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 84 / 90
+Art is a form of expression that uses visual elements such as color line shape and texture to create meaningful works. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 85 / 91
+Art can be used to represent reality express emotions explore ideas and challenge perceptions. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 86 / 92
+Art can be found in various forms including painting sculpture photography and performance art. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 87 / 93
+Art can be appreciated for its aesthetic qualities or can be seen as a reflection of the human experience. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 88 / 94
+Art has the power to evoke emotions inspire creativity and challenge our perceptions of the world. --> 0
+0 --> SUBJECTIVE
+counter/sentence_counter: 88 / 95
+Love is a complex emotion that is often characterized by feelings of affection care and attachment. --> 0
+0 --> SUBJECTIVE
+counter/sentence_counter: 88 / 96
+Love can be expressed in various ways including through physical touch words and actions. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 89 / 97
+Love can be experienced between romantic partners family members friends and pets. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 90 / 98
+Love can have a profound impact on our lives providing us with comfort support and happiness. --> 0
+0 --> SUBJECTIVE
+counter/sentence_counter: 90 / 99
+Love is a universal human experience that has been celebrated and explored throughout history in art literature and music. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 91 / 100
+Accuracy: 0.91
+Precision:  0.847457627118644
+Recall:  1.0
+F1: 0.9174311926605505
+TN: 41
+FP: 9
+FN: 0
+TP: 50

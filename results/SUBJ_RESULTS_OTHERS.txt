@@ -1,0 +1,92 @@
+GitHub repos
+
+
+
+
+https://paperswithcode.com/sota/subjectivity-analysis-on-subj
+
+Rank	Model	
+Accuracy
+
+Paper	Code	Result	Year	Tags
+1	
+RoBERTa+DualCL
+97.34	
+Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation
+2022
+
+2	
+BERT-Base + CLR + LSTM
+97.30	
+An Empirical Evaluation of Word Embedding Models for Subjectivity Analysis Tasks
+2021
+3	
+EFL
+97.1	
+Entailment as Few-Shot Learner
+2021
+4	
+BERT-Base + LSTM
+96.60	
+An Empirical Evaluation of Word Embedding Models for Subjectivity Analysis Tasks
+2021
+5	
+AdaSent
+95.50	
+Self-Adaptive Hierarchical Sentence Model
+2015
+6	
+VLAWE
+95.0	
+Vector of Locally-Aggregated Word Embeddings (VLAWE): A Novel Document-level Representation
+2019
+7	
+CNN+MCFA
+94.80	
+Translations as Additional Contexts for Sentence Classification
+2018
+8	
+byte mLSTM7
+94.7	
+A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors
+2018
+LSTM
+9	
+Byte mLSTM
+94.60	
+Learning to Generate Reviews and Discovering Sentiment
+2017
+LSTM
+10	
+USE
+93.90	
+Universal Sentence Encoder
+2018
+11	
+Capsule-B
+93.8	
+Investigating Capsule Networks with Dynamic Routing for Text Classification
+2018
+12	
+Fast Dropout
+93.60				
+13	
+SWEM-concat
+93	
+Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms
+2018
+14	
+STM+TSED+PT+2L
+92.34	
+The Pupil Has Become the Master: Teacher-Student Model-Based Word Embedding Distillation with Ensemble Learning
+2019
+15	
+GRU-RNN-GLOVE
+91.85	
+All-but-the-Top: Simple and Effective Postprocessing for Word Representations
+2017
+16	
+SDAE
+90.8	
+Learning Distributed Representations of Sentences from Unlabelled Data
+2016

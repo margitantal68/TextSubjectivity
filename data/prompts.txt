@@ -1,0 +1,2 @@
+Please, classify the following sentence into SUBJECTIVE or OBJECTIVE. Answer with a single word: {OBJECTIVE, SUBJECTIVE}. SENTENCE: 
+

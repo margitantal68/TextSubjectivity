@@ -1,0 +1,308 @@
+The pizza at Joe's Joint is the best in town. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 1 / 1
+The new Marvel movie was a total disappointment. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 2 / 2
+My dog is the cutest thing in the world. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 3 / 3
+The beach is the perfect place to spend a summer day. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 4 / 4
+New York City is the most exciting city I've ever visited. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 5 / 5
+The rain was a welcome relief after a hot humid day. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 6 / 6
+The coffee at Starbucks is overpriced and overrated. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 7 / 7
+The new Taylor Swift album is a masterpiece. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 8 / 8
+Camping is the best way to experience the beauty of nature. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 9 / 9
+Traveling alone is the best way to learn about yourself and the world around you. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 10 / 10
+The Beatles are the greatest band of all time. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 11 / 11
+The new Marvel movie is the best one yet. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 12 / 12
+Organic food is always healthier than non-organic food. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 13 / 13
+Football is the best sport to watch live. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 14 / 14
+Summer is the best season of the year. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 15 / 15
+The beach is the best place to go on vacation. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 16 / 16
+Coffee is the best beverage to start the day. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 17 / 17
+Pizza is the best food to eat when you're feeling hungry. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 18 / 18
+The rain is the worst weather to drive in. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 19 / 19
+Sunsets always look better at the beach. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 20 / 20
+The iPhone is the best smartphone on the market. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 21 / 21
+The new Avengers movie is not as good as the first one. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 22 / 22
+Green tea is the best kind of tea. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 23 / 23
+The new Taylor Swift album is not her best work. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 24 / 24
+The beach is a great place to spend a vacation. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 25 / 25
+The mountains are more beautiful than the ocean. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 26 / 26
+Pasta is the best kind of food. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 27 / 27
+The new Stephen King book is not as good as his best work. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 28 / 28
+The Grand Canyon is the most beautiful place in the world. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 29 / 29
+The new Star Wars movie is the best one yet. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 30 / 30
+The sunset over the ocean was breathtaking. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 31 / 31
+The new iPhone is a technological marvel. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 32 / 32
+The chocolate cake was delicious. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 33 / 33
+The hike through the forest was invigorating. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 34 / 34
+The opera performance was beautiful. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 35 / 35
+The new computer is much faster than the old one. --> 1
+1 --> OBJECTIVE
+counter/sentence_counter: 35 / 36
+The new car is sleek and powerful. --> 1
+1 --> OBJECTIVE
+counter/sentence_counter: 35 / 37
+The vacation in Hawaii was relaxing. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 36 / 38
+The concert was electrifying. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 37 / 39
+The painting was visually stunning. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 38 / 40
+The sunset over the ocean was so beautiful that I couldn't help but smile. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 39 / 41
+The movie was so good that I couldn't take my eyes off the screen. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 40 / 42
+The chocolate cake was so delicious that I ate the whole thing. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 41 / 43
+The concert was so loud that my ears were ringing. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 42 / 44
+The hike was so exhausting that I couldn't move my legs. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 43 / 45
+The paint job was so bad that I could hardly believe it. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 44 / 46
+The joke was so funny that I started laughing uncontrollably. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 45 / 47
+The smell was so strong that I almost threw up. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 46 / 48
+The hug was so warm that I felt like I could stay there forever. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 47 / 49
+The pain was so bad that I couldn't stop crying. --> 1
+1 --> SUBJECTIVE
+counter/sentence_counter: 48 / 50
+The data shows that sales of Coca Cola have increased by 20% over the past year. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 49 / 51
+According to a recent survey 70% of respondents reported feeling satisfied with the company's customer service. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 50 / 52
+Research suggests that employee job satisfaction is positively impacted by opportunities for professional development. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 51 / 53
+The data suggests that there is a positive correlation between product price and customer satisfaction. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 52 / 54
+According to the company's financial reports there has been a 10% increase in revenue this year. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 53 / 55
+Research indicates that employees who are satisfied with their work environment are more likely to be productive. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 54 / 56
+The data reveals that there is a negative correlation between employee satisfaction and the number of accidents in the workplace. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 55 / 57
+The company's financial reports indicate that there has been a 15% decrease in expenses this year. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 56 / 58
+According to the company's financial reports there has been a 20% increase in net profit this year. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 57 / 59
+Research suggests that employees who are satisfied with their compensation are more likely to be loyal to the company. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 58 / 60
+The Earth revolves around the sun in an elliptical orbit. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 59 / 61
+Water is composed of hydrogen and oxygen atoms. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 60 / 62
+The capital of China is Beijing. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 61 / 63
+The atomic number of hydrogen is 1. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 62 / 64
+The speed of sound in air is approximately 343 m/s. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 63 / 65
+The metric system is the official system of measurement in most countries. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 64 / 66
+The boiling point of water is 100 degrees Celsius or 212 degrees Fahrenheit. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 65 / 67
+The moon orbits Earth at an average distance of 384400 km. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 66 / 68
+The pH of water is neutral. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 67 / 69
+The blood type of a person with type A blood is A-positive. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 68 / 70
+The data shows that there has been a decline in sales of 20% since last year. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 69 / 71
+According to historical records the city was founded in 1821. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 70 / 72
+The study found that patients who exercised regularly reported higher levels of well-being. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 71 / 73
+The data shows that the company's profits have increased by 20% over the past three years. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 72 / 74
+The weather forecast calls for sunny skies with a high of 75 degrees. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 73 / 75
+According to a recent survey 80% of employees believe that the company's culture is positive. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 74 / 76
+The data indicates that the population of the city is approximately 1 million people. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 75 / 77
+The study revealed that students who receive extra tutoring tend to perform better in school. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 76 / 78
+The data shows that the company's stock price has increased by 10% over the past month. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 77 / 79
+According to historical records the Declaration of Independence was signed in 1776. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 78 / 80
+The data shows that the population has grown by 2% since last year. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 79 / 81
+It has been observed that people tend to use their mobile devices more frequently at home. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 80 / 82
+According to the research the use of renewable energy sources has increased by 5%. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 81 / 83
+It has been proven that regular exercise improves cardiovascular health. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 82 / 84
+The data indicates that the unemployment rate has decreased by 2% since last quarter. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 83 / 85
+It has been observed that people tend to eat more fast food in the winter. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 84 / 86
+According to the research the use of antibiotics has increased by 15% since last quarter. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 85 / 87
+It has been proven that smoking increases the risk of cancer. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 86 / 88
+The data suggests that there has been a 5% decrease in violent crimes since last year. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 87 / 89
+It has been observed that people tend to shop online more frequently when they are bored. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 88 / 90
+The study was conducted on 100 participants to determine the effectiveness of a new drug. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 89 / 91
+The results of the study showed a reduction in symptoms for 80% of the participants. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 90 / 92
+The study did not find any serious side effects associated with the drug. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 91 / 93
+The study was conducted by a team of experienced researchers. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 92 / 94
+The study will be published in a peer-reviewed journal. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 93 / 95
+The study was funded by a government agency. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 94 / 96
+The study used a rigorous methodology. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 95 / 97
+The study's findings are consistent with previous research. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 96 / 98
+The study's findings will be useful to other researchers and clinicians. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 97 / 99
+The study's findings will help to inform clinical practice and policy decisions. --> 0
+0 --> OBJECTIVE
+counter/sentence_counter: 98 / 100
+Accuracy: 0.98
+Precision:  1.0
+Recall:  0.96
+F1: 0.9795918367346939
+TN: 50
+FP: 0
+FN: 2
+TP: 48
